@@ -1,0 +1,15 @@
+current directory: /Users/kataokayoshimori/Desktop/pudding/rails6-compose/apps/system/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/kataokayoshimori/.rbenv/versions/2.6.4/bin/ruby -I /Users/kataokayoshimori/.rbenv/versions/2.6.4/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200319-36252-700ry2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kataokayoshimori/Desktop/pudding/rails6-compose/apps/system/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/kataokayoshimori/Desktop/pudding/rails6-compose/apps/system/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/kataokayoshimori/Desktop/pudding/rails6-compose/apps/system/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200319-36252-14a8li3/skiptrace/internal
